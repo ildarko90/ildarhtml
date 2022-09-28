@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    border: 5px solid #cb1577;
+    background: greenyellow;
+}
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid blue;
+    color: rgb(203, 21, 119);
+}
+img {
+    width: 1100px;
+}
+div {
+    border: 5px solid greenyellow;
+}
